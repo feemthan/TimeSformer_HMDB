@@ -117,8 +117,6 @@ The model shows strong performance across various action categories:
 
 ## Citation
 
-If you use this code in your research, please cite:
-
 ```bibtex
 @inproceedings{bertasius2021space,
   title={Is Space-Time Attention All You Need for Video Understanding?},
