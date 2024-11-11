@@ -132,7 +132,14 @@ If you use this code in your research, please cite:
 
 Acknowledgments
 
-Copyright 2024 [Project Contributors]
+Copyright 2024 
+
+- Project TA: Anindya Mondal
+- Contributors:
+  - Mohamed Faheem Thanveer (6823682)
+  - Mahabaleshwar Poorvita (6801697)
+  - Shrinit Sanjiv Patil (6816353)
+  - Priyanka Kamila (6787345)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -145,10 +152,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-- Project TA: Anindya Mondal
-- Contributors:
-  - Mohamed Faheem Thanveer (6823682)
-  - Mahabaleshwar Poorvita (6801697)
-  - Shrinit Sanjiv Patil (6816353)
-  - Priyanka Kamila (6787345)
